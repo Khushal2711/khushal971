@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm KhushalSapariya</h1>
-<h3 align="center">DevOps Engineer from India</h3>
+<a href="#"><img width="100%" height="auto" src="https://cdn.lifestyleasia.com/wp-content/uploads/sites/7/2020/09/02191145/2021-rolls-royce-ghost-details.jpg" height="175px"/></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushal2711&label=Profile%20views&color=0e75b6&style=flat" alt="khushal2711" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushal2711" alt="khushal2711" /></a> </p>
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Khushal</h1>
+<h3 align="center">I'm a passionate cloud and Devops Engineer from India.</h3>
 - 🌱 I’m currently learning **Linux , AWS, Docker and k8s and Devops**
 
 - 📫 How to reach me **khushalsapariya07@gmail.com**
