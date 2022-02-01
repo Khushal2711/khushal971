@@ -3,8 +3,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Khushal</h1>
 <h3 align="center">I'm a passionate cloud and Devops Engineer from India.</h3>
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![](https://github.com/Khushal2711/khushal971/ghpvc/?username=your-github-username)
+
 
 
 - 🌱 I’m currently learning **Linux , AWS, Docker and k8s and Devops**
