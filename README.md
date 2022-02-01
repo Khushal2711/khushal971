@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/S-Class/6285/1573624925693/top-view-117.jpg?tr=w-360" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdn.lifestyleasia.com/wp-content/uploads/sites/7/2020/09/02191145/2021-rolls-royce-ghost-details.jpg?tr=w-360" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Khushal</h1>
 <h3 align="center">I'm a passionate cloud and Devops Engineer from India.</h3>
