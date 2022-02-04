@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate cloud and Devops Engineer from India.</h3>
 
 ![](https://komarev.com/ghpvc/?username=khushal2711)
-![image title](https://rushter.com/counter.svg)
+
 
 
 
