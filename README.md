@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **Linux , AWS, Docker and k8s and DS**
+- 🌱 Technologies I know So far **AWS, Git, Linux, Data Science, Python, Streamlit, Artificial Intelligent, Data Analytics, Machince Learning**
 
 - 📫 How to reach me **khushalsapariya07@gmail.com**
 
